@@ -1,0 +1,12 @@
+main>p>img {
+    float: left;
+    margin: 5px 10px 10px 5px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+main>p>span {
+    float: none;
+}
+main>p{
+    height: auto;
+}
